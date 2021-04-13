@@ -1,0 +1,248 @@
+body,button,input,select,h1{
+    font-family: "Avenir Roman",sans-serif;
+    overflow-x: hidden;
+}
+#enca {
+
+    
+    margin-left: 4%;
+    
+}
+
+html{
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.e1{
+    color: white;
+    font-size: 34px;
+    margin-bottom: 30px;
+    
+    line-height: 1.2;
+    
+
+}
+
+.e2{
+    color:white;
+    font-size: 28px;
+    font-style: normal;
+    margin-bottom: 15px;
+    line-height: 1.2;
+    text-align: left;
+    font-family: "Avenir Roman",sans-serif;
+
+}
+
+
+.e3{
+    color: rgb(226, 216, 216);
+    line-height: 1.2;
+    text-align: left;
+    opacity: .7;
+    display: inline;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.e4{
+    color: hsla(0,0%,75.3%,.8);
+    font-size: 11px;
+    margin: 24px 0 24px;
+    line-height: 1.5;
+    text-align: left;
+    font-family: "Avenir Roman",sans-serif;
+
+}
+
+.sesion{
+    float: right;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: 400;
+    text-align: center;
+    border: 1px solid white;
+    border-color: white;
+    background-color: rgba(0, 0, 0, 0.781);
+    color:white;
+    padding: 9px 16px;
+    margin: 0%;
+    letter-spacing: 1.5px;
+    font-size: 15px;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all .2s ease 0s;
+    font-family: "Avenir Roman",sans-serif;
+}
+
+.e5{
+
+    width: 150px;
+    margin:0%
+}
+
+.e6{
+    width: 250px;
+    margin:0%;
+    font-size: 20px;
+}
+
+#secion:hover{
+
+    color: black;
+    background-color: white;
+}
+
+.suscribir{
+    width: 300px;
+    max-width: 340px;
+    min-width: auto;
+    margin-bottom: 0;
+    letter-spacing: 1.5px;
+    background-color: #076dc0;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 16.5px 14px;
+    border: 1px solid transparent;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 4px;
+    box-sizing: border-box;
+    vertical-align: middle;
+    font-weight: 400;
+    text-align: center;
+    transition: all .2s ease 0s;
+    font-family: "Avenir Roman",sans-serif;
+    margin-right: 5%;
+}
+
+.suscribir2{
+    width: 300px;
+    max-width: 340px;
+    min-width: 320px;
+    letter-spacing: 1.5px;
+    background-color: #076dc0;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 16.5px 14px;
+    border: 1px solid transparent;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-weight: 400;
+    text-align: center;
+    transition: all .2s ease 0s;
+    margin-bottom: 30px;
+    font-family: "Avenir Roman",sans-serif;
+    float: left;
+    
+}
+
+#b1s:hover{
+    background-color: #0483ee;
+    color: white;
+    text-decoration: unset;
+}
+#b2s:hover{
+    background-color: #0483ee;
+    color: white;
+    text-decoration: unset;
+}
+
+#parrafo{
+    color: hsla(0,0%,75.3%,.8);
+    margin: 0 0 24px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+.f1{
+    text-align: center;
+    color: white;
+    margin: 0 0 24px;
+    line-height: 1.2;
+
+
+}
+
+.f2{
+    color: rgb(161, 159, 159);
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+.f5{
+    
+    text-align: center;
+    margin-bottom: 4px;
+    font-size: 18px;
+    color: hsla(0,0%,75.3%,.8);
+    line-height: 1.5;
+}
+
+.f3{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.f4{
+
+    font-size:25px; 
+    color:white;
+    text-align: center;
+    margin: 0 0 24px;
+}
+
+.contenedor{
+    border-radius: 5px;
+    background-color: #040714;
+    
+   
+}
+
+#abc{
+
+    margin-bottom: 70px; border-color: white; border-width: 1rem;
+    border: 1px solid white;
+    height: 200px;
+}
+
+.links{
+
+    margin-bottom: 6px;
+    font-size: 12px;
+    line-height: 1.5;
+
+}
+
+.cadalink{
+    padding: 8px 12px 8px 12px;
+    color: hsla(0,0%,75.3%,.8);
+    font-size: 12px;
+
+}
+
+.cadalink2{
+    padding: 8px 12px 8px 12px;
+    color: hsla(0,0%,75.3%,.8);
+    font-size: 12px;
+
+}
+.cadalink:hover{
+    color: white;
+
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1439px){
+
+
+}
