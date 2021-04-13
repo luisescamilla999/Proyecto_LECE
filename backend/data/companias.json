@@ -1,0 +1,711 @@
+[
+    {
+        "nombreEmpresa":"Disney",
+        "idEmpresa":"1",
+        "contrasena":"1234di",
+        "correoP":"disneywell2005@gmail.com",
+        "fundador":"Omar Rodrigues",
+        "fechafundada":"1932",
+        "ps":[
+            {
+                "p":[{
+                    "id":"1",
+                    "nombre":"Soul",
+                    "imagen":"a3.png",
+                    "descripcion":"Un profesor de música que ha perdido la pasión se transporta fuera de su cuerpo al Gran Antes y debe encontrar el camino de regreso con la ayuda de un alma infantil que aprende sobre sí misma.",
+                    "actores":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, odio.",
+                    "genero":[1,2,6],
+                    "duracion":"2h 31m",
+                    "year":"2021",
+                    "Director":"Pablo Acosta"
+                },{
+                    "id":"2",
+                    "nombre":"Lady and Trump",
+                    "imagen":"a4.png",
+                    "descripcion":"Lorem sit adipisicing elit. Iure cumque asperiores nesciunt repellendus nulla ipsum dolor perferendis mollitia quibusdam dolorum? Repellendus dolorem consequuntur eum consequatur ea laboriosam itaque neque provident fugiat.",
+                    "actores":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero",
+                    "genero":[1,2,4,7],
+                    "duracion":"2h 31m",
+                    "year":"2013",
+                    "Director":"Pablo Picaso"
+                },{
+                    "id":"3",
+                    "nombre":"Que es el arte?",
+                    "imagen":"a7.png",
+                    "descripcion":"Lorem. Iure cumque asperiores nesciunt repellendus nulla ipsum dolor perferendis sit adipisicing elit mollitia quibusdam dolorum? Repellendus dolorem consequuntur eum consequatur ea laboriosam itaque neque provident fugiat.",
+                    "actores":"Lorem ipsum dolor sit amet consectetur. Libero adipisicing elit",
+                    "genero":[6,7],
+                    "duracion":"2h 31m",
+                    "year":"2015",
+                    "Director":"Pedro Labrarte"
+                },{
+                    "id":"4",
+                    "nombre":"Elephant",
+                    "imagen":"a14.png",
+                    "descripcion":"Lorem. epellendus nulla ipsum dolor perferendis sit Iure cumque asperiores nesciunt radipisicing elit mollitia quibusdam dolorum? Repellendus dolorem consequuntur eum consequatur ea laboriosam itaque neque provident fugiat.",
+                    "actores":"Lorem ipsum dolor sit amet consectetur. Libero amet adipisicing elit",
+                    "genero":[6,7,9,10],
+                    "duracion":"2h 31m",
+                    "year":"2014",
+                    "Director":"Roso Mejia"
+                },{
+                    "id":"5",
+                    "nombre":"Timmy Faiture",
+                    "imagen":"a15.png",
+                    "descripcion":"Lorem. epellendus cumque asperiores nesciunt radipisicing elit mollitia quibusdam nulla ipsum dolor perferendis sit Iure dolorum? Repellendus dolorem consequuntur eum consequatur ea laboriosam itaque neque provident fugiat.",
+                    "actores":"Libero amet adipisicing elit, Lorem ipsum dolor sit amet consectetur",
+                    "genero":[2,5,7],
+                    "duracion":"2h 31m",
+                    "year":"2011",
+                    "Director":"Rikki Galeanof"
+                },{
+                    "id":"6",
+                    "nombre":"Frozen",
+                    "imagen":"a21.png",
+                    "descripcion":"Una profecía condena al reino de Arandelle a vivir en un invierno eterno. La joven Anna, el temerario montañero Kristoff y el reno Sven deben emprender un viaje épico y lleno de aventuras en busca de Elsa, la hermana de Anna y Reina de las Nieves. Ella es la única que puede poner fin al gélido hechizo.",
+                    "actores":"Amet consectetur, Libero amet adipisicing elit, Lorem ipsum dolor sit",
+                    "genero":[1,4,5,6],
+                    "duracion":"2h 31m",
+                    "year":"2013",
+                    "Director":"Estopa Rufoldi"
+                },{
+                    "id":"7",
+                    "nombre":"El Rey Leon",
+                    "imagen":"a22.png",
+                    "descripcion":"Radipisicing  quibusdam Lorem. Ipsum dolor perferendis sit Iure dolorum? Repellendus velit mollitia epellendus cumque asperiores nesciunt nulladolorem consequuntur eum consequatur ea laboriosam itaque neque provident fugiat.",
+                    "actores":"adipisicing elit, Amet consectetur, Libero amet, Lorem ipsum dolor sit",
+                    "genero":[5,7,8],
+                    "duracion":"2h 31m",
+                    "year":"2004",
+                    "Director":"Sofia Trejon"
+                },{
+                    "id":"8",
+                    "nombre":"Unidos",
+                    "imagen":"a23.png",
+                    "descripcion":"Dos hermanos elfos adolescentes, Ian y Barley, hacen un viaje en busca de un poco de magia para pasar un último día con su padre fallecido, pero cuando su madre se entera de que no están, se une a la legendaria mantícora para traerlos de regreso.",
+                    "actores":"adipisicing elit, Amet consectetur, Libero amet, Lorem ipsum dolor sit",
+                    "genero":[1,5,6],
+                    "duracion":"2h 31m",
+                    "year":"2020",
+                    "Director":"Pokmon Gurai"
+                },{
+                    "id":"9",
+                    "nombre":"The lion King",
+                    "imagen":"a25.png",
+                    "descripcion":"Radipisicing repellendus sit Iure dolorum? asperiores itaque neque provident fugiat velit mollitia epellendus cumque quibusdam Lorem. Ipsum dolor perferendis nesciunt nulladolorem consequuntur etum consequatur ea laboriosam.",
+                    "actores":"a dolor sit, elit, Amet consectetur, Libero amet, Lorem i,dipisicing psum",
+                    "genero":[4,5,8],
+                    "duracion":"2h 31m",
+                    "year":"2020",
+                    "Director":"Rogelio Trejo"
+                },{
+                    "id":"10",
+                    "nombre":"Noelle",
+                    "imagen":"a27.png",
+                    "descripcion":"Speriores itaque neque provident fugiat velit mollitia epellendus cumque quibusdam Radipisicing repellendus sit Iure dolorum? a Lorem. Ipsum dolor perferendis nesciunt nulladolorem consequuntur etum consequatur ea laboriosam.",
+                    "actores":"a dolor sit, elit, Amet consectetur,psum lorem, Libero amet, Lorem i,dipisicing ",
+                    "genero":[4,7,10],
+                    "duracion":"2h 31m",
+                    "year":"2018",
+                    "Director":"Nola Miroy"
+                },{
+                    "id":"11",
+                    "nombre":"Monster Inc.",
+                    "imagen":"a28.png",
+                    "descripcion":"Monsters, Incorporated es la fábrica de sustos más grande en el mundo de los monstruos y James P. Sullivan es uno de sus mejores asustadores. Sullivan es un monstruo grande e intimidante de piel azul, grandes manchas color púrpura y cuernos. Su asistente, mejor amigo y compañero de cuarto es Mike Wazowski, un pequeño y alegre monstruo verde con un solo ojo. Boo, una niña pequeña visita lugares en donde nunca antes había estado un ser humano.",
+                    "actores":"Psum lorem, a dolor sit, elit, Amet consectetur, pLibero amet, Lorem i,dipisicing ",
+                    "genero":[1,2],
+                    "duracion":"2h 31m",
+                    "year":"2016",
+                    "Director":"Predorsqui Sola"
+                },{
+                    "id":"12",
+                    "nombre":"Increibles 2",
+                    "imagen":"a31.png",
+                    "descripcion":"neque provident fugiat periores itaque velit lorem cumque quibusdam Radipisicing repellendus sit Iure dolorum? a Lorem. Ipsum dolor perferendis nesciunt nulladolorem consequuntur etum consequatur ea laboriosam.",
+                    "actores":"Psum lorem, a dolor sit, elit, Amet consectetur, pLibero amet, Lorem i,dipisicing ",
+                    "genero":[1,2,5],
+                    "duracion":"2h 31m",
+                    "year":"2019",
+                    "Director":"John Walker"
+                },{
+                    "id":"13",
+                    "nombre":"The simpsons",
+                    "imagen":"a34.png",
+                    "descripcion":"neque provident cumque quibusdam Radipisicing repellendus sit loremure fugiat periores itaque velit mollitia epellendus dolorum? a Lorem. Ipsum dolor perferendis nesciunt nulladolorem consequuntur etum consequatur ea laboriosam.",
+                    "actores":"Psum lorem, a dolor sit, elit, Amet consectetur, pLibero, Lorem i,dipisicing ",
+                    "genero":[1,2,6],
+                    "duracion":"2h 31m",
+                    "year":"2018",
+                    "Director":"Matt Groening"
+                },{
+                    "id":"14",
+                    "nombre":"Piratas del Caribe",
+                    "imagen":"a40.png",
+                    "descripcion":"Neque radipisicing repellendus sit loremure fugiat periores itaque velit mollitia epellendus sicing repellendus sit lodolorum? a Lorem provident cumque quibusdam. Ipsum dolor perferendis nesciunt nulladolorem consequuntur etum consequatur ea laboriosam.",
+                    "actores":"Psum lorem, a dolor sit, elit, Amet consectetur, pLibero amet, Lorem i,dipisicing ",
+                    "genero":[2,3,5,6],
+                    "duracion":"2h 31m",
+                    "year":"2012",
+                    "Director":"Gore Verbinski"
+                },{
+                    "id":"15",
+                    "nombre":"Zootopia",
+                    "imagen":"a41.png",
+                    "descripcion":"Fugiat periores itaque velit mollitia sicing repellendus sit lodolorum? a Lorem provident cumque radipisicing repellendus sit loremure quibusdam. Ipsum dolor perferendis nesciunt nulladolorem consequuntur etum consequatur ea laboriosam.",
+                    "actores":"Psum lorem, a dolor sit, elit, Consectetur, pLibero amet, Lorem i,dipisicing ",
+                    "genero":[1,2,5,6],
+                    "duracion":"2h 5m",
+                    "year":"2018",
+                    "Director":"Byron Howard"
+                },{
+                    "id":"16",
+                    "nombre":"Toy Story 3",
+                    "imagen":"a41.png",
+                    "descripcion":"Fugiat periores itaque velit mollitia sicing repellendus sit? a Lorem provident cumque radipisicing repellendus sit loremure quibusdam. Ipsum dolor perferendis nesciunt nulladolorem consequuntur etum consequatur ea laboriosam.",
+                    "actores":"Psum lorem, a dolor sit, elit, Consectetur, pLibero amet,dipisicing ",
+                    "genero":[1,2,5],
+                    "duracion":"2h 31m",
+                    "year":"2017",
+                    "Director":"John Lasseter"
+                },{
+                    "id":"17",
+                    "nombre":"Moana",
+                    "imagen":"a45.png",
+                    "descripcion":"Fugiat periores itaque velit mollitia sicing sit? a Lorem provident cumque radipisicing repellendus sit loremure quibusdam. Ipsum dolor perferendis nesciunt nulladolorem consequuntur etum consequatur ea laboriosam.",
+                    "actores":"Psum lorem, a dolor sit, elitecraft, Consectetur, pLibero amet,dipisicing ",
+                    "genero":[1,4,5,7],
+                    "duracion":"2h 31m",
+                    "year":"2019",
+                    "Director":"Dicaprio Golvini"
+                },{
+                    "id":"18",
+                    "nombre":"The parent trap",
+                    "imagen":"a46.png",
+                    "descripcion":"Velit mollitia sicing sit? a Lorem provident cumque radipisicing repellendus sit loremure. Ipsum dolor perferendis nesciunt nulladolorem consequuntur etum consequatur ea laboriosam.",
+                    "actores":"Psum lorem, a dolor sit, elitecraft, Libero amet,dipisicing ",
+                    "genero":[4,6,9],
+                    "duracion":"2h 31m",
+                    "year":"2018",
+                    "Director":"Print Canone"
+                }]
+            },
+            {
+                "s":[{
+                    "id":"1",
+                    "nombre":"One Day",
+                    "imagen":"a19.png",
+                    "descripcion":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia autem nulla alias molestiae a at nobis rem veritatis inventore sunt explicabo necessitatibus est id illo accusamus, voluptate laudantium iste modi? Vel similique quaerat modi! Cupiditate, facere alias eveniet fuga cumque voluptates aut architecto, non modi ipsa consequuntur commodi veritatis.",
+                    "actores":"Ashley Eckstein, Matt Lanter, James Arnold Taylor, Bradley Cooper, Brie Larson, Chris Evans",
+                    "genero":[4,6,7],
+                    "duracion":"0h 45m",
+                    "year":"2019",
+                    "Director":"Patricio Sidan",
+                    "temp":[{
+                        "caps":[{"nombre":"One Day"},{"nombre":"One Day"},{"nombre":"One Day"},{"nombre":"One Day"},{"nombre":"One Day"},{"nombre":"One Day"},{"nombre":"One Day"},{"nombre":"One Day"},{"nombre":"One Day"},{"nombre":"One Day"},{"nombre":"One Day"},{"nombre":"One Day"}]
+                    },{
+                        "caps":[{"nombre":"One Day2"},{"nombre":"One Day2"},{"nombre":"One Day2"},{"nombre":"One Day2"},{"nombre":"One Day2"},{"nombre":"One Day2"},{"nombre":"One Day2"},{"nombre":"One Day2"},{"nombre":"One Day2"},{"nombre":"One Day2"},{"nombre":"One Day2"},{"nombre":"One Day2"}]
+                    },{
+                        "caps":[{"nombre":"One Day3"},{"nombre":"One Day3"},{"nombre":"One Day3"},{"nombre":"One Day3"},{"nombre":"One Day3"},{"nombre":"One Day3"},{"nombre":"One Day3"},{"nombre":"One Day3"},{"nombre":"One Day3"},{"nombre":"One Day3"},{"nombre":"One Day3"},{"nombre":"One Day3"}]
+                    },{
+                        "caps":[{"nombre":"One Day4"},{"nombre":"One Day4"},{"nombre":"One Day4"},{"nombre":"One Day4"},{"nombre":"One Day4"},{"nombre":"One Day4"},{"nombre":"One Day4"},{"nombre":"One Day4"},{"nombre":"One Day4"},{"nombre":"One Day4"},{"nombre":"One Day4"},{"nombre":"One Day4"}]
+                    }]
+                },{
+                    "id":"2",
+                    "nombre":"Artemis Fowl",
+                    "imagen":"a29.png",
+                    "descripcion":"Lorem Quia autem nulla alias molestiae a at nobis rem veritatis ipsum dolor sit amet consectetur adipisicing elit. inventore sunt explicabo necessitatibus est id illo accusamus, voluptate laudantium iste modi? Vel similique quaerat modi! Cupiditate, facere alias eveniet fuga cumque voluptates aut architecto, non modi ipsa consequuntur commodi veritatis.",
+                    "actores":"Ashley Eckstein, Matt Lanter, James Arnold Taylor, Bradley Cooper, Brie Larson, Chris Evans",
+                    "genero":[2,7],
+                    "duracion":"0h 45m",
+                    "year":"2014",
+                    "Director":"Armin Galo",
+                    "temp":[{
+                        "caps":[{"nombre":"Artemis Fowl"},{"nombre":"Artemis Fowl"},{"nombre":"Artemis Fowl"},{"nombre":"Artemis Fowl"},{"nombre":"Artemis Fowl"},{"nombre":"Artemis Fowl"},{"nombre":"Artemis Fowl"},{"nombre":"Artemis Fowl"},{"nombre":"Artemis Fowl"},{"nombre":"Artemis Fowl"},{"nombre":"Artemis Fowl"},{"nombre":"Artemis Fowl"}]
+                    },{
+                        "caps":[{"nombre":"Artemis Fowl2"},{"nombre":"Artemis Fowl2"},{"nombre":"Artemis Fowl2"},{"nombre":"Artemis Fowl2"},{"nombre":"Artemis Fowl2"},{"nombre":"Artemis Fowl2"},{"nombre":"Artemis Fowl2"},{"nombre":"Artemis Fowl2"},{"nombre":"Artemis Fowl2"},{"nombre":"Artemis Fowl2"},{"nombre":"Artemis Fowl2"},{"nombre":"Artemis Fowl2"}]
+                    }]
+                },{
+                    "id":"3",
+                    "nombre":"Wizards",
+                    "imagen":"a35.png",
+                    "descripcion":"Quia autem nulla alias molestiae a at nobis rem veritatis inventore sunt explicabo necessitatibus est id Lorem ipsum dolor sit amet consectetur adipisicing elit. illo accusamus, voluptate laudantium iste modi? Vel similique quaerat modi! Cupiditate, facere alias eveniet fuga cumque voluptates aut architecto, non modi ipsa consequuntur commodi veritatis.",
+                    "actores":"Ashley Eckstein, Matt Lanter, James Arnold Taylor, Bradley Cooper, Brie Larson, Chris Evans",
+                    "genero":[2,7],
+                    "duracion":"0h 45m",
+                    "year":"2017",
+                    "Director":"Gloria Estefan",
+                    "temp":[{
+                        "caps":[{"nombre":"wizard"},{"nombre":"wizard"},{"nombre":"wizard"},{"nombre":"wizard"},{"nombre":"wizard"},{"nombre":"wizard"},{"nombre":"wizard"},{"nombre":"wizard"},{"nombre":"wizard"},{"nombre":"wizard"},{"nombre":"wizard"},{"nombre":"wizard"}]
+                    },{
+                        "caps":[{"nombre":"wizard2"},{"nombre":"wizard2"},{"nombre":"wizard2"},{"nombre":"wizard2"},{"nombre":"wizard2"},{"nombre":"wizard2"},{"nombre":"wizard2"},{"nombre":"wizard2"},{"nombre":"wizard2"},{"nombre":"wizard2"},{"nombre":"wizard2"},{"nombre":"wizard2"}]
+                    },{
+                        "caps":[{"nombre":"wizard3"},{"nombre":"wizard3"},{"nombre":"wizard3"},{"nombre":"wizard3"},{"nombre":"wizard3"},{"nombre":"wizard3"},{"nombre":"wizard3"},{"nombre":"wizard3"},{"nombre":"wizard3"},{"nombre":"wizard3"},{"nombre":"wizard3"},{"nombre":"wizard3"}]
+                    },{
+                        "caps":[{"nombre":"wizard4"},{"nombre":"wizard4"},{"nombre":"wizard4"},{"nombre":"wizard4"},{"nombre":"wizard4"},{"nombre":"wizard4"},{"nombre":"wizard4"},{"nombre":"wizard4"},{"nombre":"wizard4"},{"nombre":"wizard4"},{"nombre":"wizard4"},{"nombre":"wizard4"}]
+                    },{
+                        "caps":[{"nombre":"wizard5"},{"nombre":"wizard5"},{"nombre":"wizard5"},{"nombre":"wizard5"},{"nombre":"wizard5"},{"nombre":"wizard5"},{"nombre":"wizard5"},{"nombre":"wizard5"},{"nombre":"wizard5"},{"nombre":"wizard5"},{"nombre":"wizard5"},{"nombre":"wizard5"}]
+                    },{
+                        "caps":[{"nombre":"wizard6"},{"nombre":"wizard6"},{"nombre":"wizard6"},{"nombre":"wizard6"},{"nombre":"wizard6"},{"nombre":"wizard6"},{"nombre":"wizard6"},{"nombre":"wizard6"},{"nombre":"wizard6"},{"nombre":"wizard6"},{"nombre":"wizard6"},{"nombre":"wizard6"}]
+                    }]
+                },{
+                    "id":"4",
+                    "nombre":"Camp Rock",
+                    "imagen":"a36.png",
+                    "descripcion":"Inventore sunt explicabo necessitatibus est id Lorem ipsum dolor Quia autem nulla alias molestiae a at nobis rem veritatis sit amet consectetur adipisicing elit. illo accusamus, voluptate laudantium iste modi? Vel similique quaerat modi! Cupiditate, facere alias eveniet fuga cumque voluptates aut architecto, non modi ipsa consequuntur commodi veritatis.",
+                    "actores":"Ashley Eckstein, Matt Lanter, James Arnold Taylor, Bradley Cooper, Brie Larson, Chris Evans",
+                    "genero":[2,6,10],
+                    "duracion":"0h 45m",
+                    "year":"2019",
+                    "Director":"Gluci Parsini",
+                    "temp":[{
+                        "caps":[{"nombre":"Rock"},{"nombre":"Rock"},{"nombre":"Rock"},{"nombre":"Rock"},{"nombre":"Rock"},{"nombre":"Rock"},{"nombre":"Rock"},{"nombre":"Rock"},{"nombre":"Rock"},{"nombre":"Rock"},{"nombre":"Rock"},{"nombre":"Rock"}]
+                    },{
+                        "caps":[{"nombre":"Rock2"},{"nombre":"Rock2"},{"nombre":"Rock2"},{"nombre":"Rock2"},{"nombre":"Rock2"},{"nombre":"Rock2"},{"nombre":"Rock2"},{"nombre":"Rock2"},{"nombre":"Rock2"},{"nombre":"Rock2"},{"nombre":"Rock2"},{"nombre":"Rock2"}]
+                    }]
+                },{
+                    "id":"5",
+                    "nombre":"Be our chef",
+                    "imagen":"a37.png",
+                    "descripcion":"E3xplicabo necessitatibus est id Lorem ipsum dolor sit amet consectetur adipisicing elit. illo accusamus, voluptate laudantium iste modi? Vel similique quaerat modi! Cupiditate, facere alias eveniet fuga cumque Quia autem nulla alias molestiae a at nobis rem veritatis inventore sunt e voluptates aut architecto, non modi ipsa consequuntur commodi veritatis.",
+                    "actores":"Ashley Eckstein, Matt Lanter, James Arnold Taylor, Bradley Cooper, Brie Larson",
+                    "genero":[5,9,10],
+                    "duracion":"0h 49m",
+                    "year":"2014",
+                    "Director":"J. James",
+                    "temp":[{
+                        "caps":[{"nombre":"Be our chef"},{"nombre":"Be our chef"},{"nombre":"Be our chef"},{"nombre":"Be our chef"},{"nombre":"Be our chef"},{"nombre":"Be our chef"},{"nombre":"Be our chef"},{"nombre":"Be our chef"},{"nombre":"Be our chef"},{"nombre":"Be our chef"},{"nombre":"Be our chef"},{"nombre":"Be our chef"}]
+                    },{
+                        "caps":[{"nombre":"Be our chef2"},{"nombre":"Be our chef2"},{"nombre":"Be our chef2"},{"nombre":"Be our chef2"},{"nombre":"Be our chef2"},{"nombre":"Be our chef2"},{"nombre":"Be our chef2"},{"nombre":"Be our chef2"},{"nombre":"Be our chef2"},{"nombre":"Be our chef2"},{"nombre":"Be our chef2"},{"nombre":"Be our chef2"}]
+                    },{
+                        "caps":[{"nombre":"Be our chef3"},{"nombre":"Be our chef3"},{"nombre":"Be our chef3"},{"nombre":"Be our chef3"},{"nombre":"Be our chef3"},{"nombre":"Be our chef3"},{"nombre":"Be our chef3"},{"nombre":"Be our chef3"},{"nombre":"Be our chef3"},{"nombre":"Be our chef3"},{"nombre":"Be our chef3"},{"nombre":"Be our chef3"}]
+                    },{
+                        "caps":[{"nombre":"Be our chef4"},{"nombre":"Be our chef4"},{"nombre":"Be our chef4"},{"nombre":"Be our chef4"},{"nombre":"Be our chef4"},{"nombre":"Be our chef4"},{"nombre":"Be our chef4"},{"nombre":"Be our chef4"},{"nombre":"Be our chef4"},{"nombre":"Be our chef4"},{"nombre":"Be our chef4"},{"nombre":"Be our chef4"}]
+                    },{
+                        "caps":[{"nombre":"Be our chef5"},{"nombre":"Be our chef5"},{"nombre":"Be our chef5"},{"nombre":"Be our chef5"},{"nombre":"Be our chef5"},{"nombre":"Be our chef5"},{"nombre":"Be our chef5"},{"nombre":"Be our chef5"},{"nombre":"Be our chef5"},{"nombre":"Be our chef5"},{"nombre":"Be our chef5"},{"nombre":"Be our chef5"}]
+                    },{
+                        "caps":[{"nombre":"Be our chef6"},{"nombre":"Be our chef6"},{"nombre":"Be our chef6"},{"nombre":"Be our chef6"},{"nombre":"Be our chef6"},{"nombre":"Be our chef6"},{"nombre":"Be our chef6"},{"nombre":"Be our chef6"},{"nombre":"Be our chef6"},{"nombre":"Be our chef6"},{"nombre":"Be our chef6"},{"nombre":"Be our chef6"}]
+                    }]
+                }]
+            }
+        ]
+    },
+    
+    {
+        "nombreEmpresa":"Pixar Animation Studios",
+        "idEmpresa":"3",
+        "contrasena":"1234pi",
+        "correoP":"pixar_animis@gmail.com",
+        "fundador":"Rosa Castillo",
+        "fechafundada":"1965",
+        "ps":[
+            {
+                "p":[{
+                    "id":"1",
+                    "nombre":"Soul",
+                    "imagen":"a3.png",
+                    "descripcion":"Un profesor de música que ha perdido la pasión se transporta fuera de su cuerpo al Gran Antes y debe encontrar el camino de regreso con la ayuda de un alma infantil que aprende sobre sí misma.",
+                    "actores":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, odio.",
+                    "genero":[1,2,6],
+                    "duracion":"2h 31m",
+                    "year":"2021",
+                    "Director":"Pablo Acosta"
+                },{
+                    "id":"2",
+                    "nombre":"Que es el arte?",
+                    "imagen":"a7.png",
+                    "descripcion":"Lorem. Iure cumque asperiores nesciunt repellendus nulla ipsum dolor perferendis sit adipisicing elit mollitia quibusdam dolorum? Repellendus dolorem consequuntur eum consequatur ea laboriosam itaque neque provident fugiat.",
+                    "actores":"Lorem ipsum dolor sit amet consectetur. Libero adipisicing elit",
+                    "genero":[6,7],
+                    "duracion":"2h 31m",
+                    "year":"2018",
+                    "Director":"Pedro Labrarte"
+                },{
+                    "id":"3",
+                    "nombre":"Unidos",
+                    "imagen":"a23.png",
+                    "descripcion":"Radipisicing repellendus velit mollitia epellendus cumque quibusdam Lorem. Ipsum dolor perferendis sit Iure dolorum? asperiores itaque neque provident fugiat nesciunt nulladolorem consequuntur etum consequatur ea laboriosam.",
+                    "actores":"adipisicing elit, Amet consectetur, Libero amet, Lorem ipsum dolor sit",
+                    "genero":[1,5,6],
+                    "duracion":"2h 31m",
+                    "year":"2020",
+                    "Director":"Pokmon Gurai"
+                },{
+                    "id":"4",
+                    "nombre":"Monster Inc.",
+                    "imagen":"a28.png",
+                    "descripcion":"Monsters, Incorporated es la fábrica de sustos más grande en el mundo de los monstruos y James P. Sullivan es uno de sus mejores asustadores. Sullivan es un monstruo grande e intimidante de piel azul, grandes manchas color púrpura y cuernos. Su asistente, mejor amigo y compañero de cuarto es Mike Wazowski, un pequeño y alegre monstruo verde con un solo ojo. Boo, una niña pequeña visita lugares en donde nunca antes había estado un ser humano.",
+                    "actores":"Psum lorem, a dolor sit, elit, Amet consectetur, pLibero amet, Lorem i,dipisicing ",
+                    "genero":[1,2],
+                    "duracion":"2h 10m",
+                    "year":"2016",
+                    "Director":"Predorsqui Sola"
+                },{
+                    "id":"5",
+                    "nombre":"Increibles 2",
+                    "imagen":"a31.png",
+                    "descripcion":"neque provident fugiat periores itaque velit mollitia epellendus cumque quibusdam Radipisicing repellendus sit Iure dolorum? a Lorem. Ipsum dolor perferendis nesciunt nulladolorem consequuntur etum consequatur ea laboriosam.",
+                    "actores":"Psum lorem, a dolor sit, elit, Amet consectetur, pLibero amet, Lorem i,dipisicing ",
+                    "genero":[1,2,5],
+                    "duracion":"2h 31m",
+                    "year":"2019",
+                    "Director":"Vaquero Galio"
+                },{
+                    "id":"6",
+                    "nombre":"Toy Story 3",
+                    "imagen":"a41.png",
+                    "descripcion":"Fugiat periores itaque velit mollitia sicing repellendus sit? a Lorem provident cumque radipisicing repellendus sit loremure quibusdam. Ipsum dolor perferendis nesciunt nulladolorem consequuntur etum consequatur ea laboriosam.",
+                    "actores":"Psum lorem, a dolor sit, elit, Consectetur, pLibero amet,dipisicing ",
+                    "genero":[1,2,5],
+                    "duracion":"2h 31m",
+                    "year":"2017",
+                    "Director":"John Lasseter"
+                },{
+                    "id":"7",
+                    "nombre":"Black is King",
+                    "imagen":"a24.png",
+                    "descripcion":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi laboriosam iste quis tempora? Quis alias at cumque aperiam quidem repellat! Quia, impedit necessitatibus quisquam ipsam sint est eos harum! Ad?",
+                    "actores":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut necessitatibus tempora repellat!",
+                    "genero":[3,5,6],
+                    "duracion":"2h 31m",
+                    "year":"2018",
+                    "Director":"Oscar Castillo"
+                },{
+                    "id":"8",
+                    "nombre":"Avatar",
+                    "imagen":"a24.png",
+                    "descripcion":"Año 2154. Jake Sully, un ex-marine condenado a vivir en una silla de ruedas, sigue siendo un auténtico guerrero. Por ello ha sido designado para ir a Pandora, donde algunas empresas están extrayendo un mineral extraño que podría resolver la crisis energética de la Tierra. Para contrarrestar la toxicidad de la atmósfera de Pandora, se ha creado el programa Avatar, gracias al cual los seres humanos mantienen sus conciencias unidas a un avatar: un cuerpo biológico controlado de forma remota que puede sobrevivir en el aire letal. Esos cuerpos han sido creados con ADN humano mezclado con ADN de los nativos de Pandora, los Na'vi. Convertido en avatar, Jake puede caminar otra vez. Su misión consiste en infiltrarse entre los Na'vi, que se han convertido en el mayor obstáculo para la extracción del mineral. Pero cuando Neytiri, una bella Na'vi, salva la vida de Jake, todo cambia: Jake, tras superar ciertas pruebas, es admitido en su clan.",
+                    "actores":"Sam Worthington, Zoe Saldana, Stephen Lang, Sigourney Weaver, Joel David Moore, Giovanni Ribisi, Michelle Rodriguez, Dileep Rao, Laz Alonso, Wes Studi",
+                    "genero":[3,4],
+                    "duracion":"2h 31m",
+                    "year":"2014",
+                    "Director":"James Cameron"
+                }]
+                
+            },
+            {
+                "s":[{
+                        "id":"1",
+                        "nombre":"Folklore",
+                        "imagen":"a6.png",
+                        "descripcion":"The Long Pond Studio Sessions (estilizado en minúsculas)​ es una película documental de 2020 dirigida, producida y protagonizada por la cantautora y actriz estadounidense Taylor Swift. Se estrenó el 25 de noviembre de 2020 en Disney+.",
+                        "actores":"Ashley Eckstein, Matt Lanter, James Arnold Taylor, Bradley Cooper, Brie Larson, Chris Evans",
+                        "genero":[4,7,6],
+                        "duracion":"0h 45m",
+                        "year":"2014",
+                        "Director":"Gulia Pelia",
+                        "temp":[{
+                            "caps":[{"nombre":"folklore"},{"nombre":"folklore"},{"nombre":"folklore"},{"nombre":"folklore"}]
+                    },{
+                        "id":"2",
+                        "nombre":"Encore",
+                        "imagen":"a13.png",
+                        "descripcion":"Veritatis inventore sunt explicaborem ipsumng elit. Quia autem nulla aliarem necessitatibus est id illo accusamus, voluptate laudantium iste modi? Vel similique quaerat modi! Cupiditate, facere alias eveniet fuga cumque voluptates aut architecto, non modi ipsa consequuntur commodi veritatis.",
+                        "actores":"Bradley Cooper, Brie Larson, Chris Evans, Psum lorem, Dolor sit, James Arnold Taylo",
+                        "genero":[4,6,7],
+                        "duracion":"1h 55m",
+                        "year":"2016",
+                        "Director":"Nicolle Perez",
+                        "temp":[{
+                            "caps":[{"nombre":"encore"},{"nombre":"encore"},{"nombre":"encore"},{"nombre":"encore"},{"nombre":"encore"},{"nombre":"encore"},{"nombre":"encore"},{"nombre":"encore"},{"nombre":"encore"},{"nombre":"encore"},{"nombre":"encore"},{"nombre":"encore"},{"nombre":"encore"},{"nombre":"encore"}]
+                        },{
+                            "caps":[{"nombre":"encore2"},{"nombre":"encore2"},{"nombre":"encore2"},{"nombre":"encore2"},{"nombre":"encore2"},{"nombre":"encore2"},{"nombre":"encore2"},{"nombre":"encore2"},{"nombre":"encore2"},{"nombre":"encore2"},{"nombre":"encore2"},{"nombre":"encore2"}]
+                        },{
+                            "caps":[{"nombre":"encore3"},{"nombre":"encore3"},{"nombre":"encore3"},{"nombre":"encore3"},{"nombre":"encore3"},{"nombre":"encore3"},{"nombre":"encore3"},{"nombre":"encore3"},{"nombre":"encore3"},{"nombre":"encore3"},{"nombre":"encore3"},{"nombre":"encore3"},{"nombre":"encore3"},{"nombre":"encore3"},{"nombre":"encore3"}]
+                        },{
+                            "caps":[{"nombre":"encore4"},{"nombre":"encore4"},{"nombre":"encore4"},{"nombre":"encore4"},{"nombre":"encore4"},{"nombre":"encore4"},{"nombre":"encore4"},{"nombre":"encore4"},{"nombre":"encore4"},{"nombre":"encore4"},{"nombre":"encore4"},{"nombre":"encore4"}]
+                        },{
+                            "caps":[{"nombre":"encore5"},{"nombre":"encore5"},{"nombre":"encore5"},{"nombre":"encore5"},{"nombre":"encore5"},{"nombre":"encore5"},{"nombre":"encore5"},{"nombre":"encore5"},{"nombre":"encore5"},{"nombre":"encore5"},{"nombre":"encore5"},{"nombre":"encore5"}]
+                        }]
+                    },{
+                        "id":"3",
+                        "nombre":"Pixar in the real life",
+                        "imagen":"a17.png",
+                        "descripcion":"This live action series brings iconic characters and moments from Pixar films into the real world. Filmed on location in and around New York City, the series surprises and delights real people in real locations when they least expect it.",
+                        "actores":"Zihan Zhao, David Greenberg, Curtis Retherford",
+                        "genero":[1,2,5],
+                        "duracion":"0h 55m",
+                        "year":"2015",
+                        "Director":"Curtis Retherford",
+                        "temp":[{
+                            "caps":[{"nombre":"Pixar real life"},{"nombre":"Pixar real life"},{"nombre":"Pixar real life"},{"nombre":"Pixar real life"},{"nombre":"Pixar real life"},{"nombre":"Pixar real life"},{"nombre":"Pixar real life"},{"nombre":"Pixar real life"},{"nombre":"Pixar real life"},{"nombre":"Pixar real life"},{"nombre":"Pixar real life"},{"nombre":"Pixar real life"},{"nombre":"Pixar real life"},{"nombre":"Pixar real life"}]
+                        },{
+                            "caps":[{"nombre":"Pixar real life2"},{"nombre":"Pixar real life2"},{"nombre":"Pixar real life2"},{"nombre":"Pixar real life2"},{"nombre":"Pixar real life2"},{"nombre":"Pixar real life2"},{"nombre":"Pixar real life2"},{"nombre":"Pixar real life2"},{"nombre":"Pixar real life2"},{"nombre":"Pixar real life2"},{"nombre":"Pixar real life2"},{"nombre":"Pixar real life2"}]
+                        }]
+                    },{
+                        "id":"4",
+                        "nombre":"Madriguera",
+                        "imagen":"a9.png",
+                        "descripcion":"Un conejo joven intenta construir la madriguera de sus sueños, avergonzándose cada vez que cava accidentalmente en la casa de un vecino. Cortometraje que acompaña al estreno de Soul",
+                        "actores":"James Arnold Taylor, David Greenberg, Bradley Cooper, Brie Larson, Chris Evans",
+                        "genero":[1,5],
+                        "duracion":"0h 7m",
+                        "year":"2021",
+                        "Director":"Madeline Sharafian",
+                        "temp":[{
+                            "caps":[{"nombre":"madriguera"},{"nombre":"madriguera"},{"nombre":"madriguera"},{"nombre":"madriguera"},{"nombre":"madriguera"},{"nombre":"madriguera"},{"nombre":"madriguera"},{"nombre":"madriguera"},{"nombre":"madriguera"},{"nombre":"madriguera"},{"nombre":"madriguera"},{"nombre":"madriguera"}]
+                        },{
+                            "caps":[{"nombre":"madriguera2"},{"nombre":"madriguera2"},{"nombre":"madriguera2"},{"nombre":"madriguera2"},{"nombre":"madriguera2"},{"nombre":"madriguera2"},{"nombre":"madriguera2"},{"nombre":"madriguera2"},{"nombre":"madriguera2"},{"nombre":"madriguera2"},{"nombre":"madriguera2"},{"nombre":"madriguera2"}]
+                        }]
+                    }]
+                }]
+            }
+        ]
+    },
+    {
+        "nombreEmpresa":"Nathional Geographic",
+        "idEmpresa":"2",
+        "contrasena":"1234na",
+        "correoP":"nat_geo2007@gmail.com",
+        "fundador":"Oscar Armando",
+        "fechafundada":"1962",
+        "ps":[
+            {
+                "p":[{
+                    "id":"1",
+                    "nombre":"Explorando Destinos",
+                    "imagen":"a8.png",
+                    "descripcion":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut vel ratione cumque. Quae tempore ex eveniet fugit cumque possimus asperiores soluta minus nihil. Voluptatibus architecto facere sed id, soluta, quisquam molestias ipsa ea ut quia sit sint odit deserunt dolore. Recusandae, doloremque eligendi?",
+                    "actores":"Stephen Lang, Sigourney Weaver, Joel David Moore, Giovanni Ribisi, Michelle Rodriguez, Wes Studi,Dileep Rao, Laz Alonso,",
+                    "genero":[5,6,9],
+                    "duracion":"2h 31m",
+                    "year":"2018",
+                    "Director":"Carlos Bertrand"
+                },{
+                    "id":"2",
+                    "nombre":"Jeff Gold Blum",
+                    "imagen":"a10.png",
+                    "descripcion":"Quae tempore ex eveniet fugit Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut vel ratione cumque. cumque possimus asperiores soluta minus nihil. Voluptatibus architecto facere sed id, soluta, quisquam molestias ipsa ea ut quia sit sint odit deserunt dolore. Recusandae, doloremque eligendi?",
+                    "actores":"Stephen Lang, Sigourney Weaver, Joel David Moore, tempore ex eveniet fugit Lorem ipsum dolo, Michelle Rodriguez, Wes Studi,Dileep Rao, Laz Alonso,",
+                    "genero":[2,4,10],
+                    "duracion":"2h 31m",
+                    "year":"2019",
+                    "Director":"Portillo Baca"
+                },{
+                    "id":"3",
+                    "nombre":"Wild Japan",
+                    "imagen":"a16.png",
+                    "descripcion":"Quae tempore ex eveniet fugit Lorem, amet consectetur adipisicing elit. Cumque possimus asperiores soluta minus nihil. Voluptatibus architecto facere sed id, soluta, quisquam molestias Ut vel ratione cumque. Ipsa ea ut quia sit sint odit deserunt dolore. Recusandae, doloremque eligendi?",
+                    "actores":"JKose Murillo Joel David Moore, tempore ex eveniet, Fugit Lorem ipsum dolo, Michelle Rodriguez, Wes Studi,Dileep Rao, Laz Alonso,",
+                    "genero":[5,9],
+                    "duracion":"2h 31m",
+                    "year":"2017",
+                    "Director":"Tulio Herber"
+                },{
+                    "id":"4",
+                    "nombre":"Life Below Zero",
+                    "imagen":"a26.png",
+                    "descripcion":"Cumque possimus asperiores soluta minus nihil. Quae tempore ex eveniet fugit Lorem, amet consectetur adipisicing elit. Voluptatibus architecto facere sed id, soluta, quisquam molestias Ut vel ratione cumque. Ipsa ea ut quia sit sint odit deserunt dolore. Recusandae, doloremque eligendi?",
+                    "actores":"JKose Murillo Joel David Moore, Fugit Lorem ipsum dolo, Michelle Rodriguez, Wes Studi,Dileep Rao, Laz Alonso,",
+                    "genero":[5,9],
+                    "duracion":"2h 31m",
+                    "year":"2015",
+                    "Director":"Omar Castillo"
+                }]
+            },
+            {
+                "s":[{
+                    "id":"1",
+                    "nombre":"FREE solo",
+                    "imagen":"a49.png",
+                    "descripcion":"Lorem adipisicing elit. Quia autem nulla alias molestiae a at nobisipsum dolor sit amet consectetur  rem veritatis inventore sunt explicabo necessitatibus est id illo accusamus, voluptate laudantium iste modi? Vel similique quaerat modi! Cupiditate, facere alias eveniet fuga cumque voluptates aut architecto, non modi ipsa consequuntur commodi veritatis.",
+                    "actores":"Ashley Eckstein, Matt Lanter, James Arnold Taylor, Michelle Rodriguez, Wes Studi, Chris Evans",
+                    "genero":[6,7,10],
+                    "duracion":"0h 45m",
+                    "year":"2014",
+                    "Director":"Aleyda Velazquez",
+                    "temp":[{
+                        "caps":[{"nombre":"free solo"},{"nombre":"free solo"},{"nombre":"free solo"},{"nombre":"free solo"},{"nombre":"free solo"},{"nombre":"free solo"},{"nombre":"free solo"},{"nombre":"free solo"},{"nombre":"free solo"},{"nombre":"free solo"},{"nombre":"free solo"},{"nombre":"free solo"}]
+                    },{
+                        "caps":[{"nombre":"free solo2"},{"nombre":"free solo2"},{"nombre":"free solo2"},{"nombre":"free solo2"},{"nombre":"free solo2"},{"nombre":"free solo2"},{"nombre":"free solo2"},{"nombre":"free solo2"},{"nombre":"free solo2"},{"nombre":"free solo2"},{"nombre":"free solo2"},{"nombre":"free solo2"}]
+                    },{
+                        "caps":[{"nombre":"free solo3"},{"nombre":"free solo3"},{"nombre":"free solo3"},{"nombre":"free solo3"},{"nombre":"free solo3"},{"nombre":"free solo3"},{"nombre":"free solo3"},{"nombre":"free solo3"},{"nombre":"free solo3"},{"nombre":"free solo3"},{"nombre":"free solo3"},{"nombre":"free solo3"}]
+                    }]
+                }]
+            }
+        ]
+    },
+    {
+        "nombreEmpresa":"Marvel",
+        "idEmpresa":"4",
+        "contrasena":"1234ma",
+        "correoP":"marvel_Interteiment@gmail.com",
+        "fundador":"Mario Vervella",
+        "fechafundada":"1950",
+        "ps":[
+            {
+                "p":[{
+                    "id":"1",
+                    "nombre":"Avengers endgame",
+                    "imagen":"a18.png",
+                    "descripcion":"Después de los eventos devastadores de 'Vengadores: Infinity War', el universo está en ruinas debido a las acciones de Thanos. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles sean las consecuencias... Cuarta y última entrega de la saga Vengadores",
+                    "actores":"Bradley Cooper, Brie Larson, Chris Evans, Chris Hemsworth, Don Cheadle, Jeremy Renner, Mark Ruffalo, Paul Rudd, Robert Downey Jr., Scarlett Johansson",
+                    "genero":[3,6,10],
+                    "duracion":"2h 31m",
+                    "year":"2020",
+                    "Director":"Anthony Russo"
+                },{
+                    "id":"2",
+                    "nombre":"Thor",
+                    "imagen":"a30.png",
+                    "descripcion":"Tras desatar una antigua guerra, el codicioso guerrero Thor es desterrado a la Tierra por su padre para que viva entre los hombres y descubra así el verdadero sentido de la humildad. Allí, sin sus poderes, Thor deberá enfrentarse a las fuerzas más oscuras que su mayor enemigo le enviará desde Asgard.",
+                    "actores":"Bradley Cooper,Gwyneth Paltrow, Don Cheadle, Guy Pearce, Jeremy Renner, Mark Ruffalo, Paul Rudd, Robert Downey Jr., Scarlett Johansson",
+                    "genero":[3,5,7],
+                    "duracion":"2h 31m",
+                    "year":"2019",
+                    "Director":"Kenneth Branagh"
+                },{
+                    "id":"3",
+                    "nombre":"Ironman 3",
+                    "imagen":"a39.png",
+                    "descripcion":"El descarado y brillante empresario Tony Stark/Iron Man se enfrentará a un enemigo cuyo poder no conoce límites. Cuando Stark comprende que su enemigo ha destruido su universo personal, se embarca en una angustiosa búsqueda para encontrar a los responsables. Este viaje pondrá a prueba su entereza una y otra vez. Acorralado, Stark tendrá que sobrevivir por sus propios medios, confiando en su ingenio y su instinto para proteger a las personas que quiere.",
+                    "actores":"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce, Rebecca Hall, Jon Favreau, Ben Kingsley, James Badge Dale, Stephanie Szostak, Paul Bettany",
+                    "genero":[3,4,6],
+                    "duracion":"2h 31m",
+                    "year":"2016",
+                    "Director":"Shane, Black"
+                },{
+                    "id":"4",
+                    "nombre":"Civil War",
+                    "imagen":"a47.png",
+                    "descripcion":"Captain America: Civil War” continúa la historia de “Avengers: Age of Ultron”, con Steve Rogers liderando un nuevo equipo de Vengadores en su esfuerzo por proteger a la humanidad. Tras otro incidente internacional relacionado con los Vengadores que ocasiona daños colaterales, la presión política fuerza a crear un sistema de registro y un cuerpo gubernamental para determinar cuándo se requiere los servicios del equipo. El nuevo status quo divide a los Vengadores mientras intentan salvar al mundo de un nuevo y perverso villano.",
+                    "actores":"Anthony Mackie, Chadwick Boseman, Chris Evans, Don Cheadle, Elizabeth Olsen, Jeremy Renner, Paul Bettany, Robert Downey Jr., Scarlett Johansson, Sebastian Stan",
+                    "genero":[3,6,10],
+                    "duracion":"2h 31m",
+                    "year":"2019",
+                    "Director":"Anthony Russo"
+                },{
+                    "id":"5",
+                    "nombre":"X-men origen de Wolbering",
+                    "imagen":"a51.png",
+                    "descripcion":"Precuela de la película X-Men. Situada 17 años antes, narra los inicios del arma X y la forma en la que Wolverine se convirtió en mutante. Logan, convertido en un mutante que se hace llamar Wolverine, y que es capaz de sacar unas afiladas garras y de una fuerza y agilidad sobrehumana, ultima su venganza contra Victor Creed, culpable de la muerte de su novia. Mientras tanto, otros mutantes se acogen al programa X para unir sus fuerzas.",
+                    "actores":"Hugh Jackman, Liev Schreiber, Danny Huston, Lynn Collins, Ryan Reynolds, Will.i.am, Taylor Kitsch, Kevin Durand, Dominic Monaghan, Daniel Henney",
+                    "genero":[3,4,5,7],
+                    "duracion":"2h 31m",
+                    "year":"2017",
+                    "Director":"Gavin, Hood"
+                }]
+            },
+            {
+                "s":[{
+                    "id":"1",
+                    "nombre":"Hero Project",
+                    "imagen":"a11.png",
+                    "descripcion":"Marvel's Hero Project es una serie de televisión de transmisión documental de Marvel New Media para Disney + transmitida desde el 12 de noviembre de 2019.",
+                    "actores":"Ashley Eckstein, Matt Lanter, Ryan Reynolds, Will.i.am, Bradley Cooper, Brie Larson, Chris Evans",
+                    "genero":[3,5,6,10],
+                    "duracion":"0h 45m",
+                    "year":"2017",
+                    "Director":"Lugo Duarte",
+                    "temp":[{
+                        "caps":[{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"},{"nombre":"Hero"}]
+                    }]
+                }]
+            }
+        ]
+    },
+
+    {
+        "nombreEmpresa":"Star Wars",
+        "idEmpresa":"5",
+        "contrasena":"1234star",
+        "correoP":"star_wars@gmail.com",
+        "fundador":"Veneric Olsen",
+        "fechafundada":"1940",
+        "ps":[
+            {
+                "p":[{
+                    "id":"1",
+                    "nombre":"El despertar de la fuerza",
+                    "imagen":"a32.png",
+                    "descripcion":"Treinta años después de haber derrotado al Imperio, una nueva amenaza se cierne sobre la República. El terrible y enigmático guerrero Kylo Ren ha reunido un ejército de leales al Imperio, que se hace llamar la Primera Orden y ataca a la Alianza. La única esperanza para la galaxia es que una recogedora de chatarra, un stromtrooper fugado y un androide llamado BB-8 logren encontrar a tiempo al legendario jedi Luke Skywalker.",
+                    "actores":"Ryan Reynolds, Will.i.am, Taylor Kitsch, Kevin Durand, Dominic Monaghan, Daniel Henney,Bradley Cooper, Brie Larson, Chris Evans",
+                    "genero":[3,5,8],
+                    "duracion":"2h 31m",
+                    "year":"2016",
+                    "Director":"J. J. Abrams"
+                },{
+                    "id":"2",
+                    "nombre":"A new hope",
+                    "imagen":"a48.png",
+                    "descripcion":"La nave en la que viaja la princesa Leia es capturada por las tropas imperiales al mando del temible Darth Vader. Antes de ser atrapada, Leia consigue introducir un mensaje en su robot R2-D2, quien acompañado de su inseparable C-3PO logra escapar. Tras aterrizar en el planeta Tattooine son capturados y vendidos al joven Luke Skywalker, quien descubrirá el mensaje oculto que va destinado a Obi Wan Kenobi, maestro Jedi a quien Luke debe encontrar para salvar a la princesa.",
+                    "actores":"Mark Hamill,Harrison Ford,Carrie Fisher, Peter Cushing, Alec Guinness, Anthony Daniels, Kenny Baker, Peter Mayhew, David Prowse, James Earl Jones",
+                    "genero":[3,5,8,10],
+                    "duracion":"2h 31m",
+                    "year":"2018",
+                    "Director":"George Lucas"
+                },{
+                    "id":"3",
+                    "nombre":"El ultimo Jedi",
+                    "imagen":"a50.png",
+                    "descripcion":"La Primera Orden ha acorralado a los últimos miembros de la resistencia. Su última esperanza es que Finn se introduzca en la nave de Snoke y desactive el radar que les permite localizarlos. Mientras él trata, en compañía de una soldado de la Resistencia, de cumplir esta misión imposible, Rey se encuentra lejos, intentando convencer a Luke Skywalker de que la entrene y la convierta en la última jedi.",
+                    "actores":"Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Andy Serkis, Domhnall Gleeson, Lupita Nyong'o",
+                    "genero":[3,5,10],
+                    "duracion":"2h 31m",
+                    "year":"2011",
+                    "Director":"Rian Johnson"
+                }]
+            },
+            {
+                "s":[{
+                    "id":"1",
+                    "nombre":"Mandalorian",
+                    "imagen":"a1.png",
+                    "descripcion":"Las aventuras de Mando, un pistolero solitario y cazarrecompensas que se abre paso a través de las fronteras más remotas de la galaxia, lejos de la jurisdicción de la Nueva República.",
+                    "actores":"Anthony Mackie, Chadwick Boseman, Ryan Reynolds, Will.i.am, Taylor Kitsch, Kevin Durand, Dominic Monaghan, Daniel Henney",
+                    "genero":[3,5,6,7],
+                    "duracion":"0h 45m",
+                    "year":"2019",
+                    "Director":"Luis Escamilla",
+                    "temp":[{
+                        "caps":[{"nombre":"Mandalorian"},{"nombre":"Mandalorian"},{"nombre":"Mandalorian"},{"nombre":"Mandalorian"},{"nombre":"Mandalorian"},{"nombre":"Mandalorian"},{"nombre":"Mandalorian"},{"nombre":"Mandalorian"},{"nombre":"Mandalorian"},{"nombre":"Mandalorian"},{"nombre":"Mandalorian"},{"nombre":"Mandalorian"}]
+                    }]
+                },{
+                    "id":"2",
+                    "nombre":"La guerra de los clones",
+                    "imagen":"a5.png",
+                    "descripcion":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia autem nulla alias molestiae a at nobis rem veritatis inventore sunt explicabo necessitatibus est id illo accusamus, voluptate laudantium iste modi? Vel similique quaerat modi! Cupiditate, facere alias eveniet fuga cumque voluptates aut architecto, non modi ipsa consequuntur commodi veritatis.",
+                    "actores":"Ashley Eckstein, Matt Lanter, James Arnold Taylor, Bradley Cooper, Brie Larson, Chris Evans",
+                    "genero":[3,5,8],
+                    "duracion":"0h 45m",
+                    "year":"2017",
+                    "Director":"Paula Suazo",
+                    "temp":[{
+                        "caps":[{"nombre":"clons war"},{"nombre":"clons war"},{"nombre":"clons war"},{"nombre":"clons war"},{"nombre":"clons war"},{"nombre":"clons war"},{"nombre":"clons war"},{"nombre":"clons war"},{"nombre":"clons war"},{"nombre":"clons war"},{"nombre":"clons war"},{"nombre":"clons war"}]
+                    },{
+                        "caps":[{"nombre":"clons war2"},{"nombre":"clons war2"},{"nombre":"clons war2"},{"nombre":"clons war2"},{"nombre":"clons war2"},{"nombre":"clons war2"},{"nombre":"clons war2"},{"nombre":"clons war2"},{"nombre":"clons war2"},{"nombre":"clons war2"},{"nombre":"clons war2"},{"nombre":"clons war2"}]
+                    },{
+                        "caps":[{"nombre":"clons war3"},{"nombre":"clons war3"},{"nombre":"clons war3"},{"nombre":"clons war3"},{"nombre":"clons war3"},{"nombre":"clons war3"},{"nombre":"clons war3"},{"nombre":"clons war3"},{"nombre":"clons war3"},{"nombre":"clons war3"},{"nombre":"clons war3"},{"nombre":"clons war3"}]
+                    },{
+                        "caps":[{"nombre":"clons war4"},{"nombre":"clons war4"},{"nombre":"clons war4"},{"nombre":"clons war4"},{"nombre":"clons war4"},{"nombre":"clons war4"},{"nombre":"clons war4"},{"nombre":"clons war4"},{"nombre":"clons war4"},{"nombre":"clons war4"},{"nombre":"clons war4"},{"nombre":"clons war4"}]
+                    },{
+                        "caps":[{"nombre":"clons war5"},{"nombre":"clons war5"},{"nombre":"clons war5"},{"nombre":"clons war5"},{"nombre":"clons war5"},{"nombre":"clons war5"},{"nombre":"clons war5"},{"nombre":"clons war5"},{"nombre":"clons war5"},{"nombre":"clons war5"},{"nombre":"clons war5"},{"nombre":"clons war5"}]
+                    },{
+                        "caps":[{"nombre":"clons war6"},{"nombre":"clons war6"},{"nombre":"clons war6"},{"nombre":"clons war6"},{"nombre":"clons war6"},{"nombre":"clons war6"},{"nombre":"clons war6"},{"nombre":"clons war6"},{"nombre":"clons war6"},{"nombre":"clons war6"},{"nombre":"clons war6"},{"nombre":"clons war6"}]
+                    },{
+                        "caps":[{"nombre":"clons war7"},{"nombre":"clons war7"},{"nombre":"clons war7"},{"nombre":"clons war7"},{"nombre":"clons war7"},{"nombre":"clons war7"},{"nombre":"clons war7"},{"nombre":"clons war7"},{"nombre":"clons war7"},{"nombre":"clons war7"},{"nombre":"clons war7"},{"nombre":"clons war7"}]
+                    }]
+                },{
+                    "id":"3",
+                    "nombre":"The rise of Skywalker",
+                    "imagen":"a52.png",
+                    "descripcion":"Finn y Poe guían a la Resistencia para detener los planes de la Primera Orden para formar un nuevo imperio, mientras Rey anticipa un enfrentamiento inevitable con Kylo Ren",
+                    "actores":"Ashley Eckstein, Matt Lanter, Bradley Cooper, Brie Larson, Chris Evans",
+                    "genero":[3,4,5,7],
+                    "duracion":"0h 45m",
+                    "year":"2019",
+                    "Director":"J. J. Abrams",
+                    "temp":[{
+                        "caps":[{"nombre":"Skywalker"},{"nombre":"Skywalker"},{"nombre":"Skywalker"},{"nombre":"Skywalker"},{"nombre":"Skywalker"},{"nombre":"Skywalker"},{"nombre":"Skywalker"},{"nombre":"Skywalker"},{"nombre":"Skywalker"},{"nombre":"Skywalker"},{"nombre":"Skywalker"},{"nombre":"Skywalker"}]
+                    },{
+                        "caps":[{"nombre":"Skywalker2"},{"nombre":"Skywalker2"},{"nombre":"Skywalker2"},{"nombre":"Skywalker2"},{"nombre":"Skywalker2"},{"nombre":"Skywalker2"},{"nombre":"Skywalker2"},{"nombre":"Skywalker2"},{"nombre":"Skywalker2"},{"nombre":"Skywalker2"},{"nombre":"Skywalker2"},{"nombre":"Skywalker2"}]
+                    }]
+                }]
+            }
+        ]
+    }
+
+    
+
+    
+]
