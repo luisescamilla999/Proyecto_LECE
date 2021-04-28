@@ -1,0 +1,294 @@
+body{
+    overflow-x: hidden;
+    background:#1A1D29;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    font-family: Avenir-Roman,sans-serif;
+    height: 824px;
+    width: 100%;
+    margin: 0%;
+}
+
+html{
+    padding: 0%;
+}
+
+.inicio{
+    color: white;
+    margin: 0px;
+    padding: 0px 0px 24px;
+    cursor: inherit;
+    font-family: Avenir-Heavy, sans-serif;
+    font-size: 24px;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 1.17;
+    font-weight: bold;
+
+}
+
+.texto{
+    backdrop-filter: blur(50px);
+    background-color: rgb(49, 52, 62);
+    border: 1px solid transparent;
+    border-radius: 4px;
+    caret-color: rgb(2, 231, 245);
+    color: rgb(249, 249, 249);
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight:bold normal;
+    height: 48px;
+    letter-spacing: normal;
+    line-height: 1.53;
+    outline: none;
+    padding: 7px 12px;
+    transition: all 0.1s ease 0s;
+    width: 100%;
+    overflow: visible;
+    font-family: inherit;
+    margin: 0px 0px 27px;
+}
+
+.barraI{
+    border-left: 2px solid rgb(168, 169, 173);
+    padding-left: 12px;
+    margin: 14px 0px 36px;
+    height: 57px;
+    text-align: left;
+}
+
+.continuar{
+    background: rgb(0, 114, 210);
+    border: none;
+    border-radius: 4px;
+    color: rgb(249, 249, 249);
+    font-size: 15px;
+    padding: 0px 24px;
+    text-transform: uppercase;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    font-family: Avenir-Heavy, sans-serif;
+    font-stretch: normal;
+    font-style: normal;
+    height: 48px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    letter-spacing: 1.5px;
+    line-height: 1.5;
+    margin: 0px;
+    overflow: hidden;
+    text-align: center;
+    transition: all 0.2s ease-in-out 0s;
+    width: 100%;
+    -webkit-font-smoothing: antialiased;
+    opacity: 1;
+    visibility: visible;
+    
+}
+
+.continuar:hover{
+    border: none;
+    background: rgb(44, 158, 252);
+    color: rgb(249, 249, 249);
+}
+
+.parrafo{
+    color: rgb(202, 202, 202);
+    display: inline-block;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 1.53;
+    padding-right: 4px;
+}
+
+.pasos{
+    cursor: inherit;
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 1.25px;
+    line-height: 1.5;
+    margin: 0px;
+}
+
+.suscribir{
+    color: rgb(249, 249, 249);
+    opacity: 1;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: normal;
+    line-height: 1.53;
+    margin: 0px;
+    text-align: center;
+    text-decoration: none;
+    width: auto;
+}
+
+a{
+    color: rgb(148, 208, 255);
+    opacity: 1;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: normal;
+    line-height: 1.53;
+    margin: 0px;
+    text-align: center;
+    text-decoration: none;
+    width: auto;
+    background-color: transparent;
+}
+
+a:hover{
+    color: rgb(148, 208, 255);
+    
+}
+
+.links{
+    font-size: 12px;
+    line-height: 1.5;
+    margin-bottom: 0%;
+
+}
+
+.cadalink{
+    padding: 8px 12px 8px 12px;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+
+}
+
+.cadalink2{
+    padding: 8px 12px 8px 12px;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    margin:0%;
+
+}
+.cadalink:hover{
+    color: white;
+    text-decoration: unset;
+}
+
+.hgt{
+    align-items: center;
+    border: 2px solid rgb(109, 117, 130);
+    display: flex;
+    height: 20px;
+    justify-content: center;
+    left: -28px;
+    position: absolute;
+    width: 20px;
+    border-radius: 3px;
+}
+
+.heMnsB{
+    display: block;
+    cursor: pointer;
+    margin: 0px 8px 16px 28px;
+    position: relative;
+    padding: 0px;
+}
+
+.contener{
+    background-color: rgba(249, 249, 249, 0.1);
+    border-radius: 8px;
+    padding: 8px;
+    margin: 0px -8px;
+    text-align:left;
+}
+
+.parrafoP{
+    color: rgb(202, 202, 202);
+    display: inline;
+    padding: 0px;
+    cursor: inherit;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 1.5;
+    margin: 0px;
+    text-transform: none;
+
+}
+.botonP{
+    background-color: transparent;
+    border: medium none;
+    color: rgb(103, 189, 255);
+    cursor: pointer;
+    display: inline;
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+    text-decoration: underline;
+    text-transform: none;
+}
+
+.botonP:hover{
+    color: rgb(103, 189, 255);
+    text-decoration: underline;
+}
+
+.menanual{
+    background-color: rgb(92, 88, 88);
+    border-radius: 4px;
+    border: 1.5px solid transparent;
+    height: 100%;
+    margin: 0px;
+    padding: 10.5px 12px;
+    width: 100%;
+    transition: 0.3s;
+}
+
+.menanual:hover{
+    background-color: rgb(170, 166, 166);
+}
+
+.hjkl{
+    font-size: 14px;
+}
+
+.barrita::after{
+    bottom:-13px;
+    content: "";
+    width: 100%;
+    height: 3px;
+    background: rgb(249, 249, 249) none repeat scroll 0% 0%;
+    border-top-right-radius: 2px;
+    border-top-left-radius: 2px;
+    display: block;
+    position: relative;
+}
+
+.cambio{
+    
+    border: 1.5px solid rgb(4, 131, 238);
+    background-color: rgb(92, 88, 88);
+    background: rgba(4, 131, 238, 0.2) none repeat scroll 0% 0%;
+    border-radius: 4px;
+    height: 100%;
+    margin: 0px;
+    padding: 10.5px 12px;
+    width: 100%;
+    transition: 0.1s;
+}
+
+.cambio:hover{
+    cursor:pointer;
+}
